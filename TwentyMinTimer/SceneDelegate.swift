@@ -1,8 +1,6 @@
 //
 //  SceneDelegate.swift
 //  TwentyMinTimer
-//
-//  Created by 満尾希美 on 6/4/20.
 //  Copyright © 2020 NM. All rights reserved.
 //
 

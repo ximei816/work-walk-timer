@@ -15,6 +15,8 @@
 		7FB2E965243B0B7A005069FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FB2E963243B0B7A005069FD /* LaunchScreen.storyboard */; };
 		7FB2E970243B0B7A005069FD /* TwentyMinTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2E96F243B0B7A005069FD /* TwentyMinTimerTests.swift */; };
 		7FB2E97B243B0B7A005069FD /* TwentyMinTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2E97A243B0B7A005069FD /* TwentyMinTimerUITests.swift */; };
+		7FB2E989243B6236005069FD /* Sounds.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2E988243B6236005069FD /* Sounds.swift */; };
+		7FB2E98B243D5843005069FD /* TimeSettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FB2E98A243D5843005069FD /* TimeSettingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		7FB2E976243B0B7A005069FD /* TwentyMinTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TwentyMinTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FB2E97A243B0B7A005069FD /* TwentyMinTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwentyMinTimerUITests.swift; sourceTree = "<group>"; };
 		7FB2E97C243B0B7A005069FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7FB2E988243B6236005069FD /* Sounds.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sounds.swift; sourceTree = "<group>"; };
+		7FB2E98A243D5843005069FD /* TimeSettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeSettingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				7FB2E958243B0B72005069FD /* AppDelegate.swift */,
 				7FB2E95A243B0B72005069FD /* SceneDelegate.swift */,
 				7FB2E95C243B0B72005069FD /* ContentView.swift */,
+				7FB2E98A243D5843005069FD /* TimeSettingView.swift */,
+				7FB2E988243B6236005069FD /* Sounds.swift */,
 				7FB2E95E243B0B7A005069FD /* Assets.xcassets */,
 				7FB2E963243B0B7A005069FD /* LaunchScreen.storyboard */,
 				7FB2E966243B0B7A005069FD /* Info.plist */,
@@ -270,6 +276,8 @@
 				7FB2E959243B0B72005069FD /* AppDelegate.swift in Sources */,
 				7FB2E95B243B0B72005069FD /* SceneDelegate.swift in Sources */,
 				7FB2E95D243B0B72005069FD /* ContentView.swift in Sources */,
+				7FB2E989243B6236005069FD /* Sounds.swift in Sources */,
+				7FB2E98B243D5843005069FD /* TimeSettingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
